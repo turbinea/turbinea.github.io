@@ -1,1 +1,0 @@
-tento adresar obsahuje hlavnu stranku ktoru treba updtatnut a potom nahrat na github

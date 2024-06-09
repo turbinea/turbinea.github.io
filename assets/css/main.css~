@@ -3782,7 +3782,7 @@ input, select, textarea {
 		-webkit-transform: scale(0.95);
 		-ms-transform: scale(0.95);
 		transform: scale(0.95);
-		opacity: 1;
+		opacity: 0;
 	}
 
 		body.is-preload #banner h2:before, body.is-preload #banner h2:after {
